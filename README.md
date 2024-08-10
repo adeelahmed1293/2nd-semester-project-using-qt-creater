@@ -1,1 +1,0 @@
-# 2nd-semester-project-using-qt-creater
