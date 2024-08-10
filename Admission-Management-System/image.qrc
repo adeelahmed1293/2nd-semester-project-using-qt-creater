@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/bgimage</file>
+        <file>images/logo</file>
+        <file>images/uni</file>
+        <file>images/next</file>
+        <file>images/admin logo.jpg</file>
+        <file>images/details.jpg</file>
+        <file>images/student.jpg</file>
+        <file>images/use.png</file>
+        <file>images/adminlogohome</file>
+        <file>images/ab.png</file>
+        <file>images/bc.png</file>
+        <file>images/s.png</file>
+        <file>images/school_48dp_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>images/admin_panel_settings_48dp_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>images/shield_person_48dp_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>images/icons8-delete-30.png</file>
+        <file>images/icons8-search-50.png</file>
+    </qresource>
+</RCC>
